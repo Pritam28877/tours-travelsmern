@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "\"the backend for the tours app'",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pritam28877/tours-travelsmern.git"
+  },
+  "author": "Pritam Das",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pritam28877/tours-travelsmern/issues"
+  },
+  "homepage": "https://github.com/Pritam28877/tours-travelsmern#readme"
+}
